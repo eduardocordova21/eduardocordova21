@@ -22,3 +22,13 @@ Technologies that i've worked with and that i'm also studying
 
 
 Stats in my profile
+
+<p align="center">
+<a href="https://github.com/eduardocordova21">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=eduardocordova21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/eduardocordova21">
+<img height="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocordova21&langs_count=50&theme=radical"/> 
+</p>
