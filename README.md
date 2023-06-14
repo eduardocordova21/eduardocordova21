@@ -25,10 +25,10 @@ Stats in my profile
 
 <p align="center">
 <a href="https://github.com/eduardocordova21">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=eduardocordova21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=eduardocordova21&show_icons=true&theme=radical&include_all_commits=true&count_private=true&pat_1=1AFSMIDA04KpoWYqqfypu_gmD0KPeCrTT4pL4vvOd3c8MdDkrqzz0neK3q8TQKxIuHFE3MF77tqsZ3IuR"
 </p>
   
 <p align="center">
 <a href="https://github.com/eduardocordova21">
-<img height="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocordova21&langs_count=50&theme=radical"/> 
+<img height="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocordova21&langs_count=50&theme=radical&pat_1=11AFSMIDA04KpoWYqqfypu_gmD0KPeCrTT4pL4vvOd3c8MdDkrqzz0neK3q8TQKxIuHFE3MF77tqsZ3IuR"/> 
 </p>
