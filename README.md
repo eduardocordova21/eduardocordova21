@@ -3,7 +3,7 @@
 
 My name is Eduardo and my nickname is "Dudu"!
 
-- 🔭 I’m currently working on Backend Development with .NET 
+- 🔭 I’m currently working on Full Stack Development with .NET 
 - 🌱 I’m currently learning Flutter
 
 
